@@ -1,40 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25f35cf1-d55d-4420-be02-a45949f1a990" name="Default" comment="&quot;&quot;">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work-demo/work-demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_1_1_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_54.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jzlib_1_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_5_1_3_201810200350_r.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_http_apache_5_1_3_201810200350_r.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_2_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_dashboard_2_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_zuul_2_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_dashboard_2_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_zuul_2_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_d3js_3_4_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_2_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-gateway/api-gateway.iml" beforeDir="false" afterPath="$PROJECT_DIR$/api-gateway/api-gateway.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api-gateway/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-server-git/config-server-git.iml" beforeDir="false" afterPath="$PROJECT_DIR$/config-server-git/config-server-git.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-pro/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-pro/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo项目(同步GitHub).txt" beforeDir="false" afterPath="$PROJECT_DIR$/自己的demo项目(同步GitHub).txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-consumer-feign-hystrix/eureka-consumer-feign-hystrix.iml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-consumer-feign-hystrix/eureka-consumer-feign-hystrix.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-producer-feign/eurekaproducerfeign.iml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-producer-feign/eurekaproducerfeign.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="25f35cf1-d55d-4420-be02-a45949f1a990" name="Default" comment="添加了一个test服务" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -371,7 +338,7 @@
       <workItem from="1576804435015" duration="1491000" />
       <workItem from="1576821939469" duration="1426000" />
       <workItem from="1576826772896" duration="936000" />
-      <workItem from="1576827746826" duration="953000" />
+      <workItem from="1576827746826" duration="1194000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;&quot;">
       <created>1576826880642</created>
@@ -380,7 +347,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576826880642</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="添加了一个test服务">
+      <created>1576828915733</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576828915733</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -401,7 +375,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;&quot;" />
+    <MESSAGE value="添加了一个test服务" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加了一个test服务" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -435,6 +410,11 @@
           <url>file://$PROJECT_DIR$/api-gateway/src/main/java/com/xyz/controller/HelloCon.java</url>
           <line>11</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/work-demo/src/main/java/com/xyz/demo/controller/TestDemo.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
