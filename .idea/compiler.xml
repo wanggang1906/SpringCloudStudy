@@ -6,18 +6,25 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="demo" />
-        <module name="eurekaconsumer" />
         <module name="config-server-git" />
-        <module name="config-client" />
+        <module name="eurekaconsumer" />
+        <module name="eureka-consumer-ribbon" />
+        <module name="demo" />
+        <module name="api-gateway" />
+        <module name="demo-server" />
         <module name="demo-pro" />
-        <module name="hystrix-dashboard" />
         <module name="demo (1)" />
+        <module name="work-demo" />
         <module name="demo (2)" />
         <module name="eurekaproducerfeign" />
-        <module name="eureka-consumer-ribbon" />
+        <module name="config-client" />
         <module name="eureka-consumer-feign-hystrix" />
-        <module name="api-gateway" />
+      </profile>
+      <profile name="Annotation profile for platform-parent" enabled="true">
+        <sourceOutputDir name="../eureka-consumer-feign-hystrix/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../eureka-consumer-feign-hystrix/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hystrix-dashboard" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -28,12 +35,14 @@
       <module name="demo (1)" target="1.8" />
       <module name="demo (2)" target="1.8" />
       <module name="demo-pro" target="1.8" />
+      <module name="demo-server" target="1.8" />
       <module name="eureka-consumer-feign-hystrix" target="1.8" />
       <module name="eureka-consumer-ribbon" target="1.8" />
       <module name="eurekaconsumer" target="1.8" />
       <module name="eurekaproducerfeign" target="1.8" />
       <module name="hystrix-dashboard" target="1.8" />
       <module name="springcloud" target="1.8" />
+      <module name="work-demo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -42,6 +51,7 @@
       <module name="config-server-git" options="-parameters" />
       <module name="demo" options="-parameters" />
       <module name="demo-pro" options="-parameters" />
+      <module name="demo-server" options="-parameters" />
       <module name="eureka-consumer-feign-hystrix" options="-parameters" />
       <module name="eureka-consumer-ribbon" options="-parameters" />
       <module name="eurekaconsumer" options="-parameters" />
