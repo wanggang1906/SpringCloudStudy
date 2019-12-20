@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-client/config-client.iml" filepath="$PROJECT_DIR$/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server-git/config-server-git.iml" filepath="$PROJECT_DIR$/config-server-git/config-server-git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-server/demo.iml" filepath="$PROJECT_DIR$/demo-server/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-pro/demo-pro.iml" filepath="$PROJECT_DIR$/demo-pro/demo-pro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-consumer-feign-hystrix/eureka-consumer-feign-hystrix.iml" filepath="$PROJECT_DIR$/eureka-consumer-feign-hystrix/eureka-consumer-feign-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-consumer-ribbon/eureka-consumer-ribbon.iml" filepath="$PROJECT_DIR$/eureka-consumer-ribbon/eureka-consumer-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-consumer/eurekaconsumer.iml" filepath="$PROJECT_DIR$/eureka-consumer/eurekaconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-producer-feign/eurekaproducerfeign.iml" filepath="$PROJECT_DIR$/eureka-producer-feign/eurekaproducerfeign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" filepath="$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloud.iml" filepath="$PROJECT_DIR$/.idea/springcloud.iml" />
+    </modules>
+  </component>
+</project>

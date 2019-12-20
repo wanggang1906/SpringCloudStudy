@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo" />
+        <module name="eurekaconsumer" />
+        <module name="config-server-git" />
+        <module name="config-client" />
+        <module name="demo-pro" />
+        <module name="hystrix-dashboard" />
+        <module name="demo (1)" />
+        <module name="demo (2)" />
+        <module name="eurekaproducerfeign" />
+        <module name="eureka-consumer-ribbon" />
+        <module name="eureka-consumer-feign-hystrix" />
+        <module name="api-gateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api-gateway" target="1.8" />
+      <module name="config-client" target="1.8" />
+      <module name="config-server-git" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="demo (1)" target="1.8" />
+      <module name="demo (2)" target="1.8" />
+      <module name="demo-pro" target="1.8" />
+      <module name="eureka-consumer-feign-hystrix" target="1.8" />
+      <module name="eureka-consumer-ribbon" target="1.8" />
+      <module name="eurekaconsumer" target="1.8" />
+      <module name="eurekaproducerfeign" target="1.8" />
+      <module name="hystrix-dashboard" target="1.8" />
+      <module name="springcloud" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="api-gateway" options="-parameters" />
+      <module name="config-server-git" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="demo-pro" options="-parameters" />
+      <module name="eureka-consumer-feign-hystrix" options="-parameters" />
+      <module name="eureka-consumer-ribbon" options="-parameters" />
+      <module name="eurekaconsumer" options="-parameters" />
+      <module name="eurekaproducerfeign" options="-parameters" />
+      <module name="hystrix-dashboard" options="-parameters" />
+    </option>
+  </component>
+</project>

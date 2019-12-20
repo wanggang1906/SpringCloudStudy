@@ -1,0 +1,47 @@
+
+
+# 服务名
+spring:
+ application:
+  name: api-gateway
+
+# 端口号
+server:
+ port: 14000
+
+# 注册中心
+eureka:
+ client:
+  service-url:
+   defaultZone: http://localhost:8761/eureka/
+
+
+info:
+ app.name: api-gateway
+ compang.name: www.xyz.com
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+#server:
+# port: 9000
+#eureka:
+# instance:
+#  hostname: localhost
+# client:
+#  registerWithEureka: false
+#  fetchRegistry: false
+#  serviceUrl:
+#   defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka-con/
+
+
+

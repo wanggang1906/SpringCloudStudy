@@ -1,0 +1,34 @@
+spring:
+ application:
+  name: eureka-consumer
+
+
+eureka:
+ client:
+  service-url:
+   defaultZone: http://localhost:8761/eureka/ #指定eu注册中心的地址
+
+server:
+ port: 9000 # 分别为9000，9001，9002
+
+
+
+
+
+
+
+
+
+#server:
+# port: 9000
+#eureka:
+# instance:
+#  hostname: localhost
+# client:
+#  registerWithEureka: false
+#  fetchRegistry: false
+#  serviceUrl:
+#   defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka-con/
+
+
+
