@@ -2,27 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8d54a80-f190-4b17-b26f-10c1c94d1ff5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_dashboard_2_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_dashboard_2_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_d3js_3_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-gateway/demo (1).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server-git/demo (2).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-consumer-feign-hystrix/demo (4).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-consumer-ribbon/demo-consumer-ribbon.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-consumer/demo-consumer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-producer-feign/demo (5).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hystrix-dashboard/demo (6).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/platform-parent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_zuul_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_zuul_2_2_0_RELEASE.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/springcloud.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-client/config-client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/config-client/config-client.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway/demo (1).iml" beforeDir="false" afterPath="$PROJECT_DIR$/api-gateway/demo (1).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api-gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-gateway/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server-git/demo (2).iml" beforeDir="false" afterPath="$PROJECT_DIR$/config-server-git/demo (2).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server-git/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config-server-git/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-pro/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-pro/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-consumer-feign-hystrix/demo (4).iml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-consumer-feign-hystrix/demo (4).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-consumer-feign-hystrix/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-consumer-feign-hystrix/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-producer-feign/demo (5).iml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-producer-feign/demo (5).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-producer-feign/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-producer-feign/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hystrix-dashboard/demo (6).iml" beforeDir="false" afterPath="$PROJECT_DIR$/hystrix-dashboard/demo (6).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hystrix-dashboard/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hystrix-dashboard/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,13 +40,17 @@
   </component>
   <component name="ProjectId" id="1VEuxPvMD0iB09lP52k0sQS3YsB" />
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/demo-pro" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunDashboard">
@@ -64,7 +65,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.DemoApplication">
+  <component name="RunManager" selected="Spring Boot.EurekaConsumerApplication">
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo (1)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xyz.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo (2)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xyz.ConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="demo-server" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
@@ -79,9 +94,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EurekaConsumerFeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo (5)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xyz.EurekaConsumerFeignApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaConsumerFeignHystrixApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo (4)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xyz.EurekaConsumerFeignHystrixApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EurekaConsumerRibbonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="demo-consumer-ribbon" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.xyz.EurekaConsumerRibbonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HystrixDashboardApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="demo (6)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xyz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xyz.HystrixDashboardApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -93,6 +135,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProviderDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo (3)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.ProviderDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.HystrixDashboardApplication (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -104,8 +158,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576830821952</updated>
-      <workItem from="1576830847355" duration="1447000" />
+      <workItem from="1576830847355" duration="1534000" />
+      <workItem from="1577062515231" duration="1473000" />
+      <workItem from="1577064228808" duration="1390000" />
+      <workItem from="1577149254969" duration="624000" />
     </task>
+    <task id="LOCAL-00001" summary="修改demo模块">
+      <created>1576835723481</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576835723481</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,10 +181,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改demo模块" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改demo模块" />
   </component>
 </project>

@@ -19,7 +19,7 @@ eureka:
 info:
  app.name: api-gateway
  compang.name: www.xyz.com
- 
+
 
 
 
